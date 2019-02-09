@@ -1,0 +1,14 @@
+SDC
+Security
+
+IB issue with view claims click
+Issue with enter explanation, then do delete expousre, then submit then go to history and click the explanantion again, gets an error. pol nbr NGST1OF10052018 -11940
+
+coming into unit from val search chg-rej id not acting like when you come in from unit search for chg-rej
+
+
+Mary's note for cosmetic changes.
+
+Mary's not, Stfanie King, we need to use new sdc google annalytics js reference. Stefanie says contact Yohay.
+
+Checkmarx off shelveset?
